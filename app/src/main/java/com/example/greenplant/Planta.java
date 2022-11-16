@@ -11,6 +11,10 @@ public class Planta {
         this.scientificName = scientificName;
     }
 
+    public Planta(){
+        
+    }
+
     public String getName() {
         return name;
     }
