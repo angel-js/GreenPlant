@@ -3,6 +3,11 @@ package com.example.greenplant;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+// Angel
+
+//Cris
+
+// Pablo
 
 public class MainActivity extends AppCompatActivity {
 
