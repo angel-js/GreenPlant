@@ -3,7 +3,7 @@ package com.example.greenplant;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-// Angel 
+// Angel
 
 public class MainActivity extends AppCompatActivity {
 
